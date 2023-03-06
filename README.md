@@ -1,5 +1,5 @@
 # Conta_Banco
-Java orientado  a onjeto -  métodos get e set constructor 
+Java orientado  a objeto -  métodos get e set constructor 
 
 ## Banco Gif :
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/126752400/223000256-a87054c8-c6a7-4097-ad15-ad19b854931b.gif)
